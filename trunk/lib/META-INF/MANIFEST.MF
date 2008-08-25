@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Export-Package: com.jtunisie.osgi.loader.lib
+Built-By: slim
+Build-Jdk: 1.6.0_10-beta
+Bundle-Version: 1.0.0.SNAPSHOT
+Tool: Bnd-0.0.238
+Bundle-Name: lib
+Bnd-LastModified: 1219707553047
+Created-By: Apache Maven Bundle Plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.jtunisie.osgi.loader.lib
+Import-Package: com.jtunisie.osgi.loader.lib
+
